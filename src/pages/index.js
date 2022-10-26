@@ -9,7 +9,7 @@ import Layout from '../components/Layout/Layout';
 import ProductCollectionGrid from '../components/ProductCollectionGrid';
 import ProductCardGrid from '../components/ProductCardGrid';
 import Quote from '../components/Quote';
-title<AKG Official>
+title={ 'AKG Official'};
 
 import { generateMockBlogData, generateMockProductData } from '../helpers/mock';
 
